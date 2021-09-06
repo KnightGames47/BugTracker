@@ -12,8 +12,8 @@ namespace BugTracker
         public string Title { get; set; }
 
         [DataType(DataType.Date)]
-        public DateTime creationDate { get; set; }
-        public DateTime dueDate { get; set; }
+        public DateTime CreationDate { get; set; }
+        public DateTime DueDate { get; set; }
         public string Status { get; set; }
         public string Assignee { get; set; }
         public string PriorityLevel { get; set; }

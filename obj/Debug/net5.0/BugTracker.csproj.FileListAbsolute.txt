@@ -280,11 +280,6 @@ J:\ProgramPractice\BugTracker\BugTrackerRepo\obj\Debug\net5.0\scopedcss\bundle\B
 J:\ProgramPractice\BugTracker\BugTrackerRepo\obj\Debug\net5.0\BugTracker.TagHelpers.input.cache
 J:\ProgramPractice\BugTracker\BugTrackerRepo\obj\Debug\net5.0\BugTracker.TagHelpers.output.cache
 J:\ProgramPractice\BugTracker\BugTrackerRepo\obj\Debug\net5.0\BugTracker.RazorCoreGenerate.cache
-J:\ProgramPractice\BugTracker\BugTrackerRepo\obj\Debug\net5.0\Razor\Pages\Bugs\Create.cshtml.g.cs
-J:\ProgramPractice\BugTracker\BugTrackerRepo\obj\Debug\net5.0\Razor\Pages\Bugs\Delete.cshtml.g.cs
-J:\ProgramPractice\BugTracker\BugTrackerRepo\obj\Debug\net5.0\Razor\Pages\Bugs\Details.cshtml.g.cs
-J:\ProgramPractice\BugTracker\BugTrackerRepo\obj\Debug\net5.0\Razor\Pages\Bugs\Edit.cshtml.g.cs
-J:\ProgramPractice\BugTracker\BugTrackerRepo\obj\Debug\net5.0\Razor\Pages\Bugs\Index.cshtml.g.cs
 J:\ProgramPractice\BugTracker\BugTrackerRepo\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
 J:\ProgramPractice\BugTracker\BugTrackerRepo\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
 J:\ProgramPractice\BugTracker\BugTrackerRepo\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
@@ -300,3 +295,8 @@ J:\ProgramPractice\BugTracker\BugTrackerRepo\obj\Debug\net5.0\BugTracker.dll
 J:\ProgramPractice\BugTracker\BugTrackerRepo\obj\Debug\net5.0\ref\BugTracker.dll
 J:\ProgramPractice\BugTracker\BugTrackerRepo\obj\Debug\net5.0\BugTracker.pdb
 J:\ProgramPractice\BugTracker\BugTrackerRepo\obj\Debug\net5.0\BugTracker.genruntimeconfig.cache
+J:\ProgramPractice\BugTracker\BugTrackerRepo\obj\Debug\net5.0\Razor\Pages\Bugs\Create.cshtml.g.cs
+J:\ProgramPractice\BugTracker\BugTrackerRepo\obj\Debug\net5.0\Razor\Pages\Bugs\Delete.cshtml.g.cs
+J:\ProgramPractice\BugTracker\BugTrackerRepo\obj\Debug\net5.0\Razor\Pages\Bugs\Details.cshtml.g.cs
+J:\ProgramPractice\BugTracker\BugTrackerRepo\obj\Debug\net5.0\Razor\Pages\Bugs\Edit.cshtml.g.cs
+J:\ProgramPractice\BugTracker\BugTrackerRepo\obj\Debug\net5.0\Razor\Pages\Bugs\Index.cshtml.g.cs
