@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pk6LpOvP4o8SPWEQtwoT+SPWutdmM6oCcR469tlAJGhWa8PCUNNd7Z/LOC6NRaXyzoWRwBtCUhhKtH2er549Sg==",
+  "dgSpecHash": "esYnXWR6JyUeHS9DeLKtHC/SRGvz9a2ZY8tHbCQiI2ZxaihlbuGsuxd6V5ZqoX9tA4b72Ha84yDzU6vfB1I8Yw==",
   "success": true,
-  "projectFilePath": "J:\\ProgramPractice\\BugTracker\\BugTracker\\BugTracker.csproj",
+  "projectFilePath": "J:\\ProgramPractice\\BugTracker\\BugTrackerRepo\\BugTracker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BigRed\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\BigRed\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\ProgramPractice\\BugTracker\\BugTracker\\BugTracker.csproj": {}
+    "J:\\ProgramPractice\\BugTracker\\BugTrackerRepo\\BugTracker.csproj": {}
   },
   "projects": {
-    "J:\\ProgramPractice\\BugTracker\\BugTracker\\BugTracker.csproj": {
+    "J:\\ProgramPractice\\BugTracker\\BugTrackerRepo\\BugTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\ProgramPractice\\BugTracker\\BugTracker\\BugTracker.csproj",
+        "projectUniqueName": "J:\\ProgramPractice\\BugTracker\\BugTrackerRepo\\BugTracker.csproj",
         "projectName": "BugTracker",
-        "projectPath": "J:\\ProgramPractice\\BugTracker\\BugTracker\\BugTracker.csproj",
+        "projectPath": "J:\\ProgramPractice\\BugTracker\\BugTrackerRepo\\BugTracker.csproj",
         "packagesPath": "C:\\Users\\BigRed\\.nuget\\packages\\",
-        "outputPath": "J:\\ProgramPractice\\BugTracker\\BugTracker\\obj\\",
+        "outputPath": "J:\\ProgramPractice\\BugTracker\\BugTrackerRepo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

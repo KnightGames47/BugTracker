@@ -18,5 +18,6 @@ namespace BugTracker
         public string Assignee { get; set; }
         public string PriorityLevel { get; set; }
         public string Reporter { get; set; }
+        public string Summary { get; set; }
     }
 }
