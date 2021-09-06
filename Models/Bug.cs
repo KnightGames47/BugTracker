@@ -11,7 +11,6 @@ namespace BugTracker
         public int ID { get; set; }
         public string Title { get; set; }
 
-        [DataType(DataType.Date)]
         public DateTime CreationDate { get; set; }
         public DateTime DueDate { get; set; }
         public string Status { get; set; }
