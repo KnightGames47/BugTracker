@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using BugTracker;
+using BugTracker.Models;
 
 namespace BugTracker.Data
 {
@@ -15,5 +16,7 @@ namespace BugTracker.Data
         }
 
         public DbSet<BugTracker.Bug> Bug { get; set; }
+
+        public DbSet<BugTracker.Models.Project> Project { get; set; }
     }
 }
