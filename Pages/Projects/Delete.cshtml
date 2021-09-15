@@ -1,4 +1,4 @@
-﻿@page
+﻿@page "{id:int?}"
 @model BugTracker.Pages.Projects.DeleteModel
 
 @{
@@ -37,7 +37,7 @@
             @Html.DisplayFor(model => model.Project.Summary)
         </dd>
     </dl>
-    
+
     <form method="post">
         <input type="hidden" asp-for="Project.ID" />
         <input type="submit" value="Delete" class="btn btn-danger" /> |
